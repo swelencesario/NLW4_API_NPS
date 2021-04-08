@@ -1,6 +1,6 @@
 <h2>API de cálculo de NPS - Net Promoter Score</h2>
 
-<p>Projeto desenvolvido durante NLW4 RocketSeat em 03/2021</p>
+<p>Projeto desenvolvido durante NLW4 RocketSeat em 03/2021 - Trilha NodeJS</p>
 
 <h2>Tecnologias utilizadas:</h2>
 
