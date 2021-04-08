@@ -11,7 +11,7 @@
 <li>Nodemailer para envio de emails</li>
 <li>Insomnia</li>
 
-<h1>Para rodar:</h1>
+<h2>Para rodar:</h2>
 
 <li>Clone este repositório</li>
 <li>Abra no visual studio code</li>
